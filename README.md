@@ -1,6 +1,7 @@
-# Vue 3 + Vite
+# Calculator using Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A sioomple calculator app to showcase the <script> and <template> tage in Vue, as well as basic algorithms to handle user input and simple calculations.
+Simple if/else statements are used to ensure calculation is handled correctly, as well as limiting the use of periods in the display.
 
 ## Recommended IDE Setup
 
